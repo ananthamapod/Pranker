@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+  <Play loop="1">http://cbcb57c1.ngrok.io/audio/kk1.mp3</Play>
+  <Pause length="2"/>
+  <Play loop="1">http://cbcb57c1.ngrok.io/audio/kk2.mp3</Play>
+</Response>
