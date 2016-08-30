@@ -1,6 +1,8 @@
 # Pranker
 ![A beautiful candid of Patrick Star should have been here :'(](patrick.jpg "IS THIS THE KRUSTY KRAB?")
 
+A quick Twilio project for HackNY Spring 2016. This was one of the winners of the best use of Twilio prize.
+
 ## Inspiration
 Just felt like doing something quick with Twilio + Really like pranking people = Pranker!
 ## What it does
